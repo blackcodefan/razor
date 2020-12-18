@@ -1,0 +1,6 @@
+{
+  "name": "AddUser",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Add.js"
+}
